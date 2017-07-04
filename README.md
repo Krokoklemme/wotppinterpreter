@@ -9,7 +9,7 @@ an example 'Hello, World'-program, which pauses at the end
 
 Known issues:
 
-*No nested loops
+* No nested loops
 
 
 
