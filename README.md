@@ -1,7 +1,7 @@
 # wotppinterpreter
 A small interpreter for a BF inspired, esoteric programming language called wot++
 
-the specification was NOT made by me, credits go to Jackojc
+the specification was NOT made by me, credits go to [Jackojc](https://github.com/Jackojc)
 
 an example 'Hello, World'-program, which pauses at the end
 
@@ -10,7 +10,3 @@ an example 'Hello, World'-program, which pauses at the end
 Known issues:
 
 * No nested loops
-
-
-
-Sidenote: I hate-love markdown
